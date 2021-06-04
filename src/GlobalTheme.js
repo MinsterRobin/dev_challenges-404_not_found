@@ -1,7 +1,12 @@
 import {createGlobalStyle} from 'styled-components';
 import React from "react";
 
-const GlobalStyles = createGlobalStyle`
+const GlobalStyles = createGlobalStyle`  
+    * {
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
     html {
         --color-background: white;
         --color-primary: #333333;
@@ -20,26 +25,6 @@ const GlobalStyles = createGlobalStyle`
             --font-size-medium: 18px;
             --font-size-large: 48px;
         }      
-    }
-    
-    * {
-        margin: 0;
-        box-sizing: border-box;
-    }
-    
-    .page_layout {
-        font-family: var(--font-family-tertiary);
-        background-color: red;
-        
-        display: flex;
-        flex-direction: column;
-        min-height: 100vh;
-        
-        padding: 40px;
-        
-        @media (max-width: 768px) {
-            padding: 20px;
-        }
     }
 `;
 
