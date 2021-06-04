@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="efc09c79-d9d6-442e-9f05-b51f28459ad5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622544910563</updated>
       <workItem from="1622544912351" duration="14241000" />
-      <workItem from="1622729334357" duration="17064000" />
+      <workItem from="1622729334357" duration="17305000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit / Push.">
       <created>1622546179380</created>
@@ -117,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622817951656</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Correction of some components name not in Pascal Casing.">
+      <created>1622818766557</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622818766557</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Commit / Push." />
     <MESSAGE value="v1 of challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="v1 of challenge." />
+    <MESSAGE value="Correction of some components name not in Pascal Casing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction of some components name not in Pascal Casing." />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622818475047">
@@ -142,11 +148,11 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="755" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1622547185496" />
-    <state x="577" y="171" key="CommitChangelistDialog2" timestamp="1622817950735">
+    <state x="577" y="171" key="CommitChangelistDialog2" timestamp="1622818766128">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="577" y="171" key="CommitChangelistDialog2/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1622546178788" />
-    <state x="577" y="171" key="CommitChangelistDialog2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622817950735" />
+    <state x="577" y="171" key="CommitChangelistDialog2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622818766128" />
     <state width="2027" height="176" key="GridCell.Tab.0.bottom" timestamp="1622818388571">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -171,11 +177,11 @@
     <state width="2027" height="318" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1622664008651" />
     <state width="2027" height="318" key="GridCell.Tab.0.right/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1622563575159" />
     <state width="2027" height="176" key="GridCell.Tab.0.right/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622818388571" />
-    <state x="617" y="310" key="Vcs.Push.Dialog.v2" timestamp="1622817955159">
+    <state x="617" y="310" key="Vcs.Push.Dialog.v2" timestamp="1622818767885">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="617" y="310" key="Vcs.Push.Dialog.v2/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1622546182449" />
-    <state x="617" y="310" key="Vcs.Push.Dialog.v2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622817955159" />
+    <state x="617" y="310" key="Vcs.Push.Dialog.v2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622818767885" />
     <state x="666" y="302" width="700" height="530" key="recent.locations.popup" timestamp="1622816310987">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
