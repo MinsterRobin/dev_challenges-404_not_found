@@ -1,11 +1,11 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Header_SC = styled.div`
+const HeaderSC = styled.div`
     width: 100%;
 `;
 
-const PageTitle_SC = styled.p`
+const PageTitleSC = styled.p`
     color: var(--color-primary);
     font-family: var(--font-family-secondary);
     font-weight: normal;
@@ -14,9 +14,9 @@ const PageTitle_SC = styled.p`
 
 const Header = () => {
     return(
-        <Header_SC>
-            <PageTitle_SC>404 NOT FOUND</PageTitle_SC>
-        </Header_SC>
+        <HeaderSC>
+            <PageTitleSC>404 NOT FOUND</PageTitleSC>
+        </HeaderSC>
     );
 };
 

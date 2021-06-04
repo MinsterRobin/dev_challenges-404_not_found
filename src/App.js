@@ -7,7 +7,7 @@ import Footer from "./Footer";
 import Button from "./Button_SC";
 import PageLayout from "./Page_Layout_SC";
 
-const Layout_Hero_SC = styled.div`
+const LayoutHeroSC = styled.div`
     flex: 1;
     
     max-width: 1600px;
@@ -23,14 +23,14 @@ const Layout_Hero_SC = styled.div`
     justify-content: center;
 `;
 
-const C_Hero_Infos_SC = styled.div`
+const LayoutHeroInfosSC = styled.div`
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 30px;
 `;
 
-const Img_SC = styled.img`
+const ImgSC = styled.img`
     flex: 1;
     width: 100%;
     max-width: 540px;
@@ -57,15 +57,15 @@ const App = () => {
 
                 <Header />
 
-                <Layout_Hero_SC>
-                    <Img_SC src={"/Scarecrow.png"}/>
+                <LayoutHeroSC>
+                    <ImgSC src={"/Scarecrow.png"}/>
 
-                    <C_Hero_Infos_SC>
+                    <LayoutHeroInfosSC>
                         <H1_SC>I have bad news for you</H1_SC>
                         <H3_SC>The page you are looking for might be removed or is temporarily unavailable</H3_SC>
                         <Button>BACK TO HOMEPAGE</Button>
-                    </C_Hero_Infos_SC>
-                </Layout_Hero_SC>
+                    </LayoutHeroInfosSC>
+                </LayoutHeroSC>
 
                 <Footer />
 
