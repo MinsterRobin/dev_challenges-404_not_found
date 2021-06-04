@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://dev-challenges-404-not-found-three.vercel.app/">
+    <a href="https://devchallenges.io/solutions/EpI63fPICM0rz15Ho2E4">
       Solution
     </a>
     <span> | </span>
