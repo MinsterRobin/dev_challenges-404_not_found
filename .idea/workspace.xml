@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Bulma" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -100,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622544910563</updated>
       <workItem from="1622544912351" duration="14241000" />
-      <workItem from="1622729334357" duration="19065000" />
+      <workItem from="1622729334357" duration="20118000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit / Push.">
       <created>1622546179380</created>
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622818984730</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test commit, accounted changed. README.md first infos.">
+      <created>1622820960130</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622820960130</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +148,8 @@
     <MESSAGE value="v1 of challenge." />
     <MESSAGE value="Correction of some components name not in Pascal Casing." />
     <MESSAGE value="Add &quot;Scarecrow.png&quot; to the repo. Better with it ..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add &quot;Scarecrow.png&quot; to the repo. Better with it ..." />
+    <MESSAGE value="Test commit, accounted changed. README.md first infos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit, accounted changed. README.md first infos." />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622818475047">
@@ -157,11 +165,11 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="755" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1622547185496" />
-    <state x="577" y="171" key="CommitChangelistDialog2" timestamp="1622820948854">
+    <state x="577" y="171" key="CommitChangelistDialog2" timestamp="1622820959614">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="577" y="171" key="CommitChangelistDialog2/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1622546178788" />
-    <state x="577" y="171" key="CommitChangelistDialog2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622820948854" />
+    <state x="577" y="171" key="CommitChangelistDialog2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622820959614" />
     <state width="2027" height="176" key="GridCell.Tab.0.bottom" timestamp="1622819027927">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -190,11 +198,11 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="533" y="219" key="SettingsEditor/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622820848148" />
-    <state x="617" y="310" key="Vcs.Push.Dialog.v2" timestamp="1622818985962">
+    <state x="617" y="310" key="Vcs.Push.Dialog.v2" timestamp="1622820961504">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="617" y="310" key="Vcs.Push.Dialog.v2/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1622546182449" />
-    <state x="617" y="310" key="Vcs.Push.Dialog.v2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622818985962" />
+    <state x="617" y="310" key="Vcs.Push.Dialog.v2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622820961504" />
     <state x="666" y="302" width="700" height="530" key="recent.locations.popup" timestamp="1622816310987">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>

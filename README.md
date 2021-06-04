@@ -50,8 +50,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Styled-Components](https://styled-components.com/)
 
 ## Features
 
@@ -64,11 +63,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [MDN - Flex](https://developer.mozilla.org/fr/docs/Web/CSS/flex)
+- [Emmanuel Beziat - Site qui prend toute la hauteur disponible](https://www.emmanuelbeziat.com/blog/un-site-qui-prend-toute-la-hauteur-disponible/)
 
 ## Contact
 
-- Website [your-website.com](https://robin-minster.fr/)
-- GitHub [@your-username](https://MinsterRobin)
+- Website [robin-minster.fr](https://robin-minster.fr/)
+- GitHub [@MinsterRobin](https://github.com/MinsterRobin)
