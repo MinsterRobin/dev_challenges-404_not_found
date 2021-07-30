@@ -8,6 +8,7 @@ const GlobalStyles = createGlobalStyle`
     }
     
     html {
+        font-size: 62.5%;
         --color-background: white;
         --color-primary: #333333;
         --color-secondary: #4F4F4F;
@@ -17,9 +18,9 @@ const GlobalStyles = createGlobalStyle`
         --font-family-secondary: 'Inconsolata', monospace;
         --font-family-tertiary: 'Montserrat', sans-serif;
       
-        --font-size-small: 14px;
-        --font-size-medium: 24px;
-        --font-size-large: 64px;
+        --font-size-small: 1.4rem;
+        --font-size-medium: 2.4rem;
+        --font-size-large: 6.4rem;
         
         @media (max-width: 768px) {
             --font-size-medium: 18px;

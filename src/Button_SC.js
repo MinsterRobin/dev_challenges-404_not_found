@@ -13,8 +13,9 @@ const Button = styled.p`
     font-weight: bold;
     font-size: var(--font-size-small);
     
-    width: 216px;
-    height: 68px;
+    width: max-content;
+    padding: 24px 40px;
+    height: max-content;
 `;
 
 export default Button;

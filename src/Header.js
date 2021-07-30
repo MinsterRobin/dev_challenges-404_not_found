@@ -9,7 +9,7 @@ const PageTitleSC = styled.p`
     color: var(--color-primary);
     font-family: var(--font-family-secondary);
     font-weight: normal;
-    font-size: 24px;
+    font-size: 2.4rem;
 `;
 
 const Header = () => {
