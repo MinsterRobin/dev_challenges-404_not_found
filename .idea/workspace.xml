@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="efc09c79-d9d6-442e-9f05-b51f28459ad5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Button_SC.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Button_SC.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GlobalTheme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/GlobalTheme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +105,7 @@
       <workItem from="1622544912351" duration="14241000" />
       <workItem from="1622729334357" duration="22335000" />
       <workItem from="1623176676763" duration="1220000" />
-      <workItem from="1627587885095" duration="3043000" />
+      <workItem from="1627587885095" duration="4089000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit / Push.">
       <created>1622546179380</created>
@@ -172,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622823508432</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Font accessibility commit.">
+      <created>1627650370009</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627650370009</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +193,8 @@
     <MESSAGE value=". README.md: Finalisation." />
     <MESSAGE value="- Useless files.&#10;. GlobalTheme.js: - useless class&#10;                  . reorganization of the file for better reading logic" />
     <MESSAGE value=". README.md: +Link to the devChallenges.io solution." />
-    <option name="LAST_COMMIT_MESSAGE" value=". README.md: +Link to the devChallenges.io solution." />
+    <MESSAGE value="Font accessibility commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Font accessibility commit." />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622818475047">
@@ -204,10 +210,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="755" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1622547185496" />
-    <state x="282" y="82" width="1258" height="983" key="CommitChangelistDialog2" timestamp="1622823508030">
+    <state x="577" y="171" width="1258" height="983" key="CommitChangelistDialog2" timestamp="1627650369430">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="577" y="171" key="CommitChangelistDialog2/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1622546178788" />
+    <state x="577" y="171" key="CommitChangelistDialog2/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1627650369430" />
     <state x="282" y="82" width="1258" height="983" key="CommitChangelistDialog2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622823508030" />
     <state width="2027" height="176" key="GridCell.Tab.0.bottom" timestamp="1622828667728">
       <screen x="0" y="0" width="2048" height="1152" />
@@ -237,10 +243,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="533" y="219" key="SettingsEditor/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622820848148" />
-    <state x="617" y="310" key="Vcs.Push.Dialog.v2" timestamp="1622823509701">
+    <state x="617" y="310" key="Vcs.Push.Dialog.v2" timestamp="1627650371613">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="617" y="310" key="Vcs.Push.Dialog.v2/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1622546182449" />
+    <state x="617" y="310" key="Vcs.Push.Dialog.v2/0.0.2048.1152/-1920.243.1920.1080/2560.243.1920.1080@0.0.2048.1152" timestamp="1627650371613" />
     <state x="617" y="310" key="Vcs.Push.Dialog.v2/2560.243.1920.1080/-1920.243.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1622823509701" />
     <state x="666" y="302" width="700" height="530" key="recent.locations.popup" timestamp="1622816310987">
       <screen x="0" y="0" width="2048" height="1152" />

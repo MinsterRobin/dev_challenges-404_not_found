@@ -23,8 +23,8 @@ const GlobalStyles = createGlobalStyle`
         --font-size-large: 6.4rem;
         
         @media (max-width: 768px) {
-            --font-size-medium: 18px;
-            --font-size-large: 48px;
+            --font-size-medium: 1.8rem;
+            --font-size-large: 4.8rem;
         }      
     }
 `;
